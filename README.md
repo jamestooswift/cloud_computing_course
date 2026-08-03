@@ -1,25 +1,25 @@
 # Cloud Computing Course Repository
 
-> *A collection of activities, outputs, and learning resources for [Course Name/Code]*
+> *A collection of activities, outputs, and learning resources for BSIT 4-K CCM101*
 
 ## 📌 About This Repository
 
 This repo serves as my organized workspace for all course requirements, including:
 
-- Class notes and summaries
+Class notes and summaries
 
-- Lab activities and exercises
+Lab activities and exercises
 
-- Mini-projects
+Mini-projects
 
-- Reflection papers
+Reflection papers
 
 👤 Student Information
 
-- Name: James Alexander Torino
+Name: James Alexander Torino
 
-- Course/Section: BSIT 4-K
+Course/Section: BSIT 4-K
 
-- Instructor: JENKIELYN TORRES
+Instructor: JENKIELYN TORRES
 
-- School Year: [2026-2027]
+School Year: [2026-2027]
