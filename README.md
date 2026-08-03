@@ -23,3 +23,16 @@ Course/Section: BSIT 4-K
 Instructor: JENKIELYN TORRES
 
 School Year: [2026-2027]
+
+
+ 📘 Key Concepts Covered
+
+- Cloud Computing Basics
+
+- Service Models (IaaS, PaaS, SaaS)
+
+- Deployment Models (Public, Private, Hybrid, Community)
+
+- Version Control with Git & GitHub
+
+- Cloud Infrastructure Management
