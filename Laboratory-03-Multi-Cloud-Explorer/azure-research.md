@@ -12,7 +12,7 @@ Azure has data centers in different parts of the world. These are organized into
 
 The **Azure Portal** is the website where I can manage Azure services. I can use it to create and manage virtual machines, databases, storage, networking, and other cloud resources.
 
-![Microsoft Azure Portal](screenshots/"C:\Users\letse\OneDrive\Pictures\Screenshots\Screenshot 2026-08-05 120657.png")
+![Microsoft Azure Portal](screenshots/azure-console.png)
 
 ## 4. Four (4) Core Services
 
@@ -59,4 +59,3 @@ I learned that businesses commonly use Azure for:
 * Supporting business applications and services
 
 Overall, I learned that Microsoft Azure is useful for businesses because it provides many cloud services and works well with Microsoft technologies.
-
