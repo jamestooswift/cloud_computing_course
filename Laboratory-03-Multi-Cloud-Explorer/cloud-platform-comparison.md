@@ -32,3 +32,18 @@ I would say **Google Cloud Platform (GCP)** is one of the strongest choices for 
 
 Personally, I would choose **AWS** because it has a wide range of services and is useful for many different types of projects. As a student learning cloud computing, I think AWS would give me more opportunities to explore different cloud technologies and services.
 
+# Match the Cloud Services
+
+## Cloud Service Reference Table
+
+| **Service Category**    | **AWS**    | **Azure**                      | **GCP**                        |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Summary
+
+I learned that AWS, Azure, and GCP provide similar types of cloud services, but they use different names for their services. For example, Amazon EC2, Azure Virtual Machines, and Compute Engine all provide virtual machines. Knowing these equivalent services makes it easier for me to understand and compare different cloud platforms.
