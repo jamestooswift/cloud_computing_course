@@ -2,56 +2,33 @@
 
 ## Linux Server Investigation
 
-For this activity, I launched an **Ubuntu Linux Playground using KillerCoda**. I used Linux commands to check the operating system, CPU, memory, and disk space of the server.
+For this activity, I launched an **Ubuntu Linux Playground using KillerCoda**. I used different Linux commands to identify the operating system, CPU, memory, and disk space of the server.
 
 ### 1. Operating System
 
-I used the following command:
-
-```bash
-cat /etc/os-release
-```
-
-The server is running **Ubuntu 24.04.4 LTS (Noble Numbat)**.
-
-![Linux Operating System](screenshots/linux-os.png)
+I used the `cat /etc/os-release` command to check the operating system. The server is running **Ubuntu 24.04.4 LTS (Noble Numbat)**.
 
 ### 2. CPU Information
 
-I used:
-
-```bash
-lscpu
-```
-
-The server uses an **Intel Xeon E312xx processor** with an **x86_64 architecture**. The playground has **1 CPU**.
-
-![Linux CPU Information](screenshots/linux-cpu.png)
+I used the `lscpu` command to check the CPU information. The server uses an **Intel Xeon E312xx processor** with an **x86_64 architecture** and has **1 CPU**.
 
 ### 3. Memory
 
-I used:
-
-```bash
-free -h
-```
-
-The server has **1.9 GiB of total memory**. At the time I checked it, about **1.5 GiB was available**.
-
-![Linux Memory Information](screenshots/linux-memory.png)
+I used the `free -h` command to check the server's memory. The server has **1.9 GiB of total memory**, with about **1.5 GiB available** when I checked it.
 
 ### 4. Disk Space
 
-I used:
+I used the `df -h` command to check the disk space. The main disk has about **19 GB of total space**, with approximately **5.4 GB used** and **13 GB available**.
 
-```bash
-df -h
-```
+### Screenshots
 
-The main disk has about **19 GB of total space**, with approximately **5.4 GB used** and **13 GB available**.
+The screenshots below show the Linux terminal output that I collected while performing the investigation.
 
-![Linux Disk Space](screenshots/linux-disk.png)
+### Screenshots
 
+![Linux Operating System and CPU Information](screenshots/linux-os-cpu.png)
+
+![Linux Memory and Disk Information](screenshots/linux-memory-disk.png)
 ---
 
 ## Cloud Migration
