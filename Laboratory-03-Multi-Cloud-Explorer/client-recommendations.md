@@ -30,3 +30,19 @@ I recommend **Google Cloud Platform (GCP)** because Google provides strong tools
 
 I recommend **AWS** because it has a large global infrastructure that can support an e-commerce company serving customers around the world. AWS provides services that can automatically scale resources when website traffic increases, which is important for an online shopping platform. It also provides tools for building highly available applications across different regions and Availability Zones. Some useful services are **Amazon EC2, Amazon S3, and Elastic Load Balancing**.
 
+# Multi-Cloud Decision Matrix
+
+## Cloud Provider Decision Matrix
+
+| **Business Requirement**    | **Recommended Platform**    | **Justification**                                                                                                                          |
+| --------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Startup Company**         | AWS                         | I recommend AWS because it has many services that can help startups build and scale their applications as they grow.                       |
+| **Enterprise Organization** | AWS                         | I recommend AWS because it provides a wide range of services and tools that can support large and complex business operations.             |
+| **Microsoft Environment**   | Microsoft Azure             | I recommend Azure because it works well with Microsoft products such as Windows Server, Microsoft 365, and Microsoft Entra ID.             |
+| **AI / Machine Learning**   | Google Cloud Platform (GCP) | I recommend GCP because Google provides strong AI, machine learning, and data analytics services.                                          |
+| **Kubernetes Deployment**   | Google Cloud Platform (GCP) | I recommend GCP because Google created Kubernetes and provides Google Kubernetes Engine (GKE) for managing Kubernetes applications.        |
+| **Global Web Application**  | AWS                         | I recommend AWS because it has a large global infrastructure that can help web applications serve users from different parts of the world. |
+
+## Summary
+
+I learned that there is no single cloud provider that is best for every situation. AWS is a good choice for general business needs and global applications, Azure is a strong choice for Microsoft environments, while GCP is a good option for AI, machine learning, and Kubernetes.
